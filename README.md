@@ -1,7 +1,6 @@
 # Koma Privacy Policy
-This is a temporal privacy policy writen for the development of Koma. This is not designed for Production.
 
-Last updated: May 16, 2023
+Last updated: May 23, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -37,7 +36,7 @@ The words of which the initial letter is capitalized have meanings defined under
 <h3>Personal Data collected</h3>
 The only data we require is the email for the creation of the account to access Koma. Aditional personal data such as names and profile pictures are completely opcional and are not a requirement to access Koma.
 
-The email adress will not be shared with anyone inside or outside the app. The display name and profile picture that the you provide are public inside the app. Meaning that anyone with access to the app will be able to see this data. We do not verify the name given by you, neither we require this name to be your given name. 
+The email address will not be shared with anyone inside or outside the app. The display name and profile picture that the you provide are public inside the app. Meaning that anyone with access to the app will be able to see this data. We do not verify the name given by you, neither we require this name to be your given name. 
 
 <h3>Usage Data Collected</h3>
 Usage Data is collected automatically when using the Service.
